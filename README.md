@@ -1,67 +1,27 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Public Transport Management System(Public Transport Management System)
+This is a bus management system based on HTML+CSS+JavaScrip+tailwindcss+PHP+laravel framework(这是基于HTML+CSS+JavaScrip+tailwindcss+PHP+laravel框架编写的公交管理系统)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Related technologies used（使用到的相关技术）
+1.html+css+javaScript
+2.tailwindcss：https://tailwindcss.com/docs/guides/laravel
+4.php
+5.mysql
+6.laravel:https://laravel.com/
 
-## About Laravel
+## Specific steps（具体操作步骤）
+1. Download the project to your local computer and download the .sql database file of the root project to your local database.
+1.下载该项目到本地，并把根项目的.sql数据库文件下载到本地数据库中。
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+2. Find the .env file in the root directory and modify the database information in it to ensure that it is consistent with your current local database information.
+2.在根目录下找到.env文件，修改里面数据库的信息，保证与您当前本地数据库信息一致。
+![6020cf3467bc2f95b38903a239f6ae0](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/8e751495-bcac-41ac-baf0-f7e837f766bc)
+![3ef1ffd329d703b743ad5d7168f8c94](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/70111336-4d45-4975-ab33-b7740ffa9a30)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+3. Open a cmd window at the project location.
+3.打开项目位置的cmd窗口。
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+4. In the cmd window, enter: "npm install" and press Enter (to download project dependencies). After completion, enter "npm run dev" and press Enter (to start the Tailwind CSS style display of the project).
+4.在cmd窗口输入：“npm install” 按回车键（下载项目依赖）。完成后输入“npm run dev”按回车键（启动该项目的tailwindcss样式显示）。
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# ��������ϵͳ" 
+5. Open a new cmd window and enter: "php artisan serve" Press Enter, click on the displayed domain name address or copy it to the browser to open it.
+5.打开新cmd窗口输入：“php artisan serve” 按回车键，在显示出的域名地址点击或复制到浏览器打开。
