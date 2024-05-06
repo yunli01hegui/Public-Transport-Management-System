@@ -1,5 +1,9 @@
 # Public Transport Management System(Public Transport Management System)
 This is a bus management system based on HTML+CSS+JavaScrip+tailwindcss+PHP+laravel framework(这是基于HTML+CSS+JavaScrip+tailwindcss+PHP+laravel框架编写的公交管理系统)
+![9af56f01366d4b471ae09d2d9261de2](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/c8a5e2e8-1804-4726-911c-4d6e3f6aa2b6)
+![fbfa1c3af184f0f314f229cfe6537b0](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/289f12bf-7f8f-4093-91ba-c3d99db96ce5)
+![e8e4de1edee9e9aab8f46efb2bf437d](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/0d9a2fe8-d319-4755-8115-886a28f9d121)
+![d1c7fd9d4c2e0059eb28c63ee64f86d](https://github.com/yunli01hegui/Public-Transport-Management-System/assets/134910544/75dbd69d-731b-4495-9c0a-1bf25efde86c)
 
 ## Related technologies used（使用到的相关技术）
 1.html+css+javaScript
